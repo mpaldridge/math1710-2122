@@ -1,1 +1,1 @@
-Draft notes for MATH1710 Probability and Statistics 1 at the University of Leeds, 2021--22.
+Notes for MATH1710 Probability and Statistics 1 at the University of Leeds, 2021--22. (For pandemic-related reasons, no in-person lectures were held. These notes, in 11 weekly sections, are interspersed with YouTube videos instead. These seemed worth keeping around.)
